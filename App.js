@@ -4,10 +4,10 @@ import Button from "./components/Button";
 export default function App() {
   return (
     <View style={styles.container}>
-      <Button text="oh novinha" />
-      <Button text="oh novinha" />
-      <Button text="brota no baile" />
-      <Button text="do panta" />
+      <Button text="oh novinha 🙋‍♀️" />
+      <Button text="oh novinha 🙋‍♀️" />
+      <Button text="brota no baile 🤸‍♀️" />
+      <Button text="do panta 🐆" />
     </View>
   );
 }
